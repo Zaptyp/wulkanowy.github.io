@@ -46,7 +46,6 @@
             <a class="reddit" title="Reddit" href="https://www.reddit.com/r/wulkanowy/" @click="redditClick">
         <img src="../assets/reddit.svg" alt="Reddit" />
       </a>
-      <a>
             <a class="twitter" title="Twitter" href="https://www.twitter.com/wulkanowy" @click="twitterClick">
         <img src="../assets/twitter.png" alt="Twitter" />
       </a>
