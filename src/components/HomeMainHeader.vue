@@ -47,7 +47,7 @@
         <img src="../assets/reddit.svg" alt="Reddit" />
       </a>
             <a class="twitter" title="Twitter" href="https://www.twitter.com/wulkanowy" @click="twitterClick">
-        <img src="../assets/twitter.png" alt="Twitter" />
+        <img src="../assets/twitter.svg" alt="Twitter" />
       </a>
     </div>
     <div class="footer">
