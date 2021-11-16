@@ -22,7 +22,7 @@
         class="store-link"
         href="https://f-droid.org/packages/io.github.wulkanowy"
         @click="storeClick">
-        <img src="../assets/f-droid-badge.svg" alt="Get it on F-Droid">
+        <img src="../assets/f-droid-badge.png " alt="Get it on F-Droid">
       </a>
     </div>
     <div class ="buttons">
