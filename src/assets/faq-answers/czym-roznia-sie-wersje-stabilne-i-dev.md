@@ -19,6 +19,6 @@ ale może posiadać problemy ze stabilnością.
 Istnieją również wersje DEV generowane automatyczne dla każdej funkcji, nad którą aktualnie pracujemy.
 Zazwyczaj są niestabilne lub niedokończone. W związku z tym, użytkownicy niedoświadczeni nie powinni z nich korzystać.
 
-Wszystkie typy wersji DEV można pobrać jedynie z naszej strony internetowej i z naszego serwera discord.
+Wszystkie typy wersji DEV można pobrać jedynie z naszej strony internetowej i z naszego serwera Discord.
 
 **UWAGA:** Wersji DEV nie można pobrać ze Sklepu Play, dlatego też trzeba je aktualizować ręcznie.
