@@ -5,6 +5,6 @@ Wulkanowy w większości przypadków potrafi automatycznie wykryć odpowiedni sy
 dziennika niż domyślny, trzeba go wprowadzić ręcznie.
 
 Poprawny dla twojej szkoły symbol znajdziesz po zalogowaniu się do dziennika UONET+ przez przeglądarkę i przejściu
-przez kafelek **Uczeń NOWOŚĆ** do zakładki **Dostęp mobilny** i po kliknięcie w **Wygeneruj kod dostępu** (symbol zaznaczony kursorem):
+przez kafelek **Uczeń NOWOŚĆ** do zakładki **Dostęp mobilny** i po kliknięciu w **Wygeneruj kod dostępu** (symbol zaznaczony kursorem):
 
 ![](https://i.imgur.com/v3to2W0.png)
