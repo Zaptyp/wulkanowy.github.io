@@ -42,7 +42,7 @@
         przez <a href="https://policies.google.com/technologies/partner-sites">Google AdMob</a>.
         Zbieranie danych i&nbsp;wykorzystywanie unikalnego identyfikatora reklamowego poprzez wyżej wymienioną usługę
         odbywa się tylko i&nbsp;wyłącznie po włączeniu reklam w&nbsp;ustawieniach aplikacji i&nbsp;po zaakceptowaniu
-        Polityki Prywatności. Po zainstalowaniu aplikacja domyślnie nie zbiera danych w celach reklamowych,
+        Polityki Prywatności. Po zainstalowaniu, aplikacja domyślnie nie zbiera danych w celach reklamowych,
         nie korzysta z unikalnego identyfikatora reklamowego, ani nie wyświetla reklam bez zgody użytkownika.
       </li>
       <li>
